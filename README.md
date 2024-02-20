@@ -1,0 +1,1 @@
+## This is a desktop PyQt6 app for managing complex university data with an SQL database backend.
